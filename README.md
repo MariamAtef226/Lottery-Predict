@@ -5,6 +5,7 @@ It was an application for the usage of discrete random variables in our real lif
 
 ### Files Included 📁
 - Application.m   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   _source code_
+- Lottery Predictor.pdf   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   _Background information and Guide_
 
 ### Used Language 💻
 
@@ -22,7 +23,7 @@ It was an application for the usage of discrete random variables in our real lif
 - Mariam Atef Hassan
 - Aly Hamdy
 
-_December/2020_
+_December / 2020_
 
 <hr>
 
